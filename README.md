@@ -13,11 +13,11 @@ This repository contains a Python project for building an image classifier using
 
 ## Introduction
 
-Image classification is a fundamental task in computer vision, and deep learning models have achieved remarkable performance in this domain. This project demonstrates how to leverage a pretrained model from TensorFlow Keras to create a robust image classifier. You can use this classifier to classify images into various categories or classes based on the objects or patterns present in them.
+Image classification is a fundamental task in computer vision, and deep learning models have achieved remarkable performance in this domain. This project demonstrates how to leverage a pre-trained model from TensorFlow Keras to create a robust image classifier. You can use this classifier to classify images into various categories or classes based on the objects or patterns present in them.
 
 ## Features
 
-- Uses a pretrained model for image classification.
+- Uses a pre-trained model for image classification.
 - Supports a wide range of image formats (JPEG, PNG, etc.).
 - Easy-to-use command-line interface for predicting images.
 - Customizable for different datasets and categories.
@@ -27,11 +27,8 @@ Image classification is a fundamental task in computer vision, and deep learning
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.x installed on your system.
-- Install the required dependencies by running the following command:
-
-```bash
-pip install -r requirements.txt
+- Use Google Colab
+- We can either use Jupiter Notebook and other IDE's.
 ```
 
 ## Installation
@@ -41,13 +38,13 @@ To install and use this image classifier, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/image-classifier.git
+git clone https://github.com/dev-32/ImageClassifier.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd image-classifier
+cd ImageClassifier
 ```
 
 3. Run the installation script:
@@ -70,7 +67,7 @@ You can also customize the classifier for your specific needs by modifying the c
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. For major changes, please discuss them in the issues section before implementing.
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. For major changes, please discuss them in the issues section before implementing them.
 
 
 ---
